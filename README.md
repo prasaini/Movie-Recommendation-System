@@ -17,7 +17,7 @@ TF-IDF stands for Term Frequency-Inverse Document Frequency. It is a numerical s
 Count Vectorizer is a simple method for converting text into a bag-of-words representation, where each word is represented by a count of its occurrences in the text.
 
 ## Usage
-Open the Jupyter Notebook movie_recommendation_system.ipynb  
+Open the Jupyter Notebook _movie_recommendation_system.ipynb  
 Run the notebook cells sequentially.  
 Enter the name of the movie you want to get recommendations for.  
 The system will output 7 movie names similar to what was entered.  
